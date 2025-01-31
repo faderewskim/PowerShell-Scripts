@@ -8,3 +8,4 @@ This repository contains a set of PowerShell scripts to facilitate the administr
 - **Microsoft365**: Scripts for managing Microsoft 365 resources, including calendars, users, and integrations with Microsoft Graph API.
 - **Reports**: Generating reports.
 - **System**: Administration of the operating system.
+- **Utilities**: Useful tools to support other scripts.

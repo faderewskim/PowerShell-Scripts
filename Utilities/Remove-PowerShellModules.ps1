@@ -24,7 +24,6 @@ What has been added?    1. Empty
 param(
     [Parameter(Mandatory=$false)] 
     #[string] $moduleName = "<PUT_MODULE_NAME>", # example 'Microsoft.Graph*'
-    [string] $moduleName = "Microsoft.Graph*", # example 'Microsoft.Graph*'
 
     [Parameter(Mandatory=$false)] 
     [array] $Modules = (Get-InstalledModule | ? {$_.Name -like $moduleName}).Name

@@ -21,7 +21,7 @@ What has been added?    1. Empty
 
 param(
     [ValidateNotNullorEmpty()]
-    [array] $skuPartNumber = @("O365_BUSINESS_ESSENTIALS", "SPB"),
+    [array] $skuPartNumber = @("<PUT_skuPartNumber>", "<PUT_skuPartNumber>"),
 
     [ValidateNotNullorEmpty()]
     [array] $mgProperties  = @("UserPrincipalName", "DisplayName", "Id", "AssignedLicenses", "AccountEnabled")

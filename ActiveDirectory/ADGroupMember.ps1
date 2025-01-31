@@ -12,7 +12,7 @@ At the same time, it removes if the user is not on the list.
 
 
 Name/Surname:           Mateusz Faderewski
-Profession:             Inżynier systemowy
+Profession:             System Engineer
 Date:                   26-04-2024
 Version:                v1.0
 What has been added?    1. Empty
